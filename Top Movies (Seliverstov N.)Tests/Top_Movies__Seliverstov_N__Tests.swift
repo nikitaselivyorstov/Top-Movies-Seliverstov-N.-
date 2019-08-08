@@ -1,11 +1,3 @@
-//
-//  Top_Movies__Seliverstov_N__Tests.swift
-//  Top Movies (Seliverstov N.)Tests
-//
-//  Created by Nikita Seliverstov  on 05/08/2019.
-//  Copyright © 2019 Nikita Seliverstov . All rights reserved.
-//
-
 import XCTest
 import UIKit
 import Foundation
